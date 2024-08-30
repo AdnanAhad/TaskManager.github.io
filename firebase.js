@@ -1,5 +1,5 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyDRCJpk3vBYnDLInpZd9w86Bb_0gT37MyA",
+  apiKey: "add you api key here",
   authDomain: "todo-live-e13fa.firebaseapp.com",
   projectId: "todo-live-e13fa",
   storageBucket: "todo-live-e13fa.appspot.com",
